@@ -4,9 +4,11 @@
 
 ### Unity 3D Scripting
 ![cheatsheet](https://github.com/codemaker2015/unity3d-cheat-sheet/blob/master/cheatsheets/unity-cheatsheet.jpg)
+[Download](https://github.com/codemaker2015/unity3d-cheat-sheet/blob/master/cheatsheets/unity-cheatsheet.pdf)
 
 ### Unity 3D Keyboard Shortcuts
 ![cheatsheet](https://github.com/codemaker2015/unity3d-cheat-sheet/blob/master/cheatsheets/unity3d-keyboard-shortcuts.jpg)
+[Download](https://github.com/codemaker2015/unity3d-cheat-sheet/blob/master/cheatsheets/unity3d-keyboard-shortcuts.pdf)
 
 ## Examples
 
